@@ -14,10 +14,8 @@ document.addEventListener('DOMContentLoaded', function () {
   
     // Add markers to the map
     var markers = [
-      { 
-        coordinates: [52.5907374, 5.1214201], popupText: 'Marker 1' 
-    },{ 
-        coordinates: [52.0907374, 5.1214201], popupText: 'Marker 2' },
+      { coordinates: [52.5907374, 5.1214201], popupText: 'Marker 1' },
+      { coordinates: [52.0907374, 5.1214201], popupText: 'Marker 2' },
       // Add more markers as needed
     ];
   
