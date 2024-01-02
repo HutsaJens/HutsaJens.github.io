@@ -1,0 +1,402 @@
+[
+  {
+    "cityName": "Deventer",
+    "lat": 52.2695736,
+    "lng": 6.2363396
+  },
+  {
+    "cityName": "Nederweert",
+    "lat": 51.2918913,
+    "lng": 5.7481464
+  },
+  {
+    "cityName": "Veenendaal",
+    "lat": 52.0232041,
+    "lng": 5.5518002
+  },
+  {
+    "cityName": "Thorn",
+    "lat": 51.1611211,
+    "lng": 5.8403012
+  },
+  {
+    "cityName": "Roelofarendsveen",
+    "lat": 52.2027173,
+    "lng": 4.6312402
+  },
+  {
+    "cityName": "Boxmeer",
+    "lat": 51.6486483,
+    "lng": 5.9450972
+  },
+  {
+    "cityName": "Oostvoorne",
+    "lat": 51.914271,
+    "lng": 4.1038932
+  },
+  {
+    "cityName": "Spijkenisse",
+    "lat": 51.8464881,
+    "lng": 4.3287681
+  },
+  {
+    "cityName": "Genemuiden",
+    "lat": 52.6229099,
+    "lng": 6.0423473
+  },
+  {
+    "cityName": "Horst",
+    "lat": 51.4525002,
+    "lng": 6.0539238
+  },
+  {
+    "cityName": "Farmsum",
+    "lat": 53.3226566,
+    "lng": 6.9286233
+  },
+  {
+    "cityName": "Heerhugowaard",
+    "lat": 52.6631484,
+    "lng": 4.8326672
+  },
+  {
+    "cityName": "Eindhoven",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "cityName": "Dordrecht",
+    "lat": 51.7958812,
+    "lng": 4.6779351
+  },
+  {
+    "cityName": "Montfoort",
+    "lat": 52.0387833,
+    "lng": 4.9560877
+  },
+  {
+    "cityName": "Utrecht",
+    "lat": 52.0809856,
+    "lng": 5.127684
+  },
+  {
+    "cityName": "Duiven",
+    "lat": 51.9470218,
+    "lng": 6.0230325
+  },
+  {
+    "cityName": "Herkenbosch",
+    "lat": 51.1548896,
+    "lng": 6.0660056
+  },
+  {
+    "cityName": "Rips",
+    "lat": 51.5507901,
+    "lng": 5.8106171
+  },
+  {
+    "cityName": "Reuver",
+    "lat": 51.2835975,
+    "lng": 6.0782236
+  },
+  {
+    "cityName": "Cruquius",
+    "lat": 52.3364776,
+    "lng": 4.6367765
+  },
+  {
+    "cityName": "Werkendam",
+    "lat": 51.8079227,
+    "lng": 4.8987346
+  },
+  {
+    "cityName": "Meppel",
+    "lat": 52.7117444,
+    "lng": 6.1973073
+  },
+  {
+    "cityName": "Raamsdonkveer",
+    "lat": 51.6928511,
+    "lng": 4.8760657
+  },
+  {
+    "cityName": "Eibergen",
+    "lat": 52.1032685,
+    "lng": 6.6511683
+  },
+  {
+    "cityName": "Etten-Leur",
+    "lat": 51.5692065,
+    "lng": 4.6360813
+  },
+  {
+    "cityName": "Siebengewald",
+    "lat": 51.6494766,
+    "lng": 6.1065773
+  },
+  {
+    "cityName": "Holwerd",
+    "lat": 53.3684202,
+    "lng": 5.9051004
+  },
+  {
+    "cityName": "Buurmalzen",
+    "lat": 52.25,
+    "lng": 5.75
+  },
+  {
+    "cityName": "Apeldoorn",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "cityName": "Andelst",
+    "lat": 51.9073627,
+    "lng": 5.7289373
+  },
+  {
+    "cityName": "Escharen",
+    "lat": 51.743408,
+    "lng": 5.7471396
+  },
+  {
+    "cityName": "’s-Hertogenbosch",
+    "lat": 51.6889387,
+    "lng": 5.303116
+  },
+  {
+    "cityName": "Staphorst ",
+    "lat": 52.6368387,
+    "lng": 6.2081297
+  },
+  {
+    "cityName": "Ede",
+    "lat": 52.0716825,
+    "lng": 5.7455106
+  },
+  {
+    "cityName": "Waalwijk",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "cityName": "Oosterhout (Gld.)",
+    "lat": 51.645,
+    "lng": 4.85972
+  },
+  {
+    "cityName": "Mierlo",
+    "lat": 51.4437624,
+    "lng": 5.6187496
+  },
+  {
+    "cityName": "Hulst",
+    "lat": 51.3315401,
+    "lng": 4.0877028
+  },
+  {
+    "cityName": "Alphen aan den Rijn",
+    "lat": 52.1131403,
+    "lng": 4.6408412
+  },
+  {
+    "cityName": "Milsbeek",
+    "lat": 51.7243615,
+    "lng": 5.9499476
+  },
+  {
+    "cityName": "Hedel",
+    "lat": 51.7448817,
+    "lng": 5.2597063
+  },
+  {
+    "cityName": "Tiel",
+    "lat": 51.8924253,
+    "lng": 5.4304382
+  },
+  {
+    "cityName": "Westerhoven",
+    "lat": 51.3316002,
+    "lng": 5.3985112
+  },
+  {
+    "cityName": "Zevenbergen ",
+    "lat": 51.6450443,
+    "lng": 4.6061538
+  },
+  {
+    "cityName": "Nieuw Vennep",
+    "lat": 52.2646243,
+    "lng": 4.6340331
+  },
+  {
+    "cityName": "Geesteren (ov)",
+    "lat": 52.421032,
+    "lng": 6.7362406
+  },
+  {
+    "cityName": "Terwolde ",
+    "lat": 52.2816866,
+    "lng": 6.0998032
+  },
+  {
+    "cityName": "Steenwijk",
+    "lat": 52.7895502,
+    "lng": 6.1210477
+  },
+  {
+    "cityName": "Oosterblokker",
+    "lat": 52.6691696,
+    "lng": 5.1190281
+  },
+  {
+    "cityName": "Amersfoort",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "cityName": "Zeewolde",
+    "lat": 52.331111,
+    "lng": 5.5430312
+  },
+  {
+    "cityName": "Berkel en Rodenrijs",
+    "lat": 51.9911323,
+    "lng": 4.4739774
+  },
+  {
+    "cityName": "Drachten",
+    "lat": 53.1091111,
+    "lng": 6.0948102
+  },
+  {
+    "cityName": "HAAKSBERGEN",
+    "lat": 52.1564581,
+    "lng": 6.740239
+  },
+  {
+    "cityName": "Doetinchem",
+    "lat": 51.9585348,
+    "lng": 6.2814551
+  },
+  {
+    "cityName": "Gilze",
+    "lat": 51.5416528,
+    "lng": 4.9443857
+  },
+  {
+    "cityName": "Culemborg",
+    "lat": 51.9493315,
+    "lng": 5.2092152
+  },
+  {
+    "cityName": " Alblasserdam",
+    "lat": 51.8599524,
+    "lng": 4.6662023
+  },
+  {
+    "cityName": "scherpenzeel ",
+    "lat": 52.0903689,
+    "lng": 5.5072024
+  },
+  {
+    "cityName": "Heerde",
+    "lat": 52.4056303,
+    "lng": 6.0413984
+  },
+  {
+    "cityName": "Alem",
+    "lat": 51.7879324,
+    "lng": 5.339046
+  },
+  {
+    "cityName": "Almere",
+    "lat": 52.3705038,
+    "lng": 5.2185859
+  },
+  {
+    "cityName": "Lithoijen",
+    "lat": 51.8013283,
+    "lng": 5.4637374
+  },
+  {
+    "cityName": "Rotterdam",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "cityName": "Deurne",
+    "lat": 51.4281834,
+    "lng": 5.8281069
+  },
+  {
+    "cityName": "Muiden",
+    "lat": 52.3301851,
+    "lng": 5.0692658
+  },
+  {
+    "cityName": "Ambt Delden ",
+    "lat": 52.2615545,
+    "lng": 6.6386976
+  },
+  {
+    "cityName": "Vortum-Mullem",
+    "lat": 51.6208345,
+    "lng": 5.978192
+  },
+  {
+    "cityName": "Veen",
+    "lat": 51.7785316,
+    "lng": 5.1080632
+  },
+  {
+    "cityName": "Loosdrecht",
+    "lat": 52.2025993,
+    "lng": 5.0905629
+  },
+  {
+    "cityName": "Edam",
+    "lat": 52.5119116,
+    "lng": 5.0562845
+  },
+  {
+    "cityName": "RADEWIJK",
+    "lat": 52.5707994,
+    "lng": 6.7105787
+  },
+  {
+    "cityName": "Hindeloopen",
+    "lat": 52.9426184,
+    "lng": 5.4004822
+  },
+  {
+    "cityName": "Heemskerk",
+    "lat": 52.5101177,
+    "lng": 4.6350609
+  },
+  {
+    "cityName": "Zevenaar",
+    "lat": 51.9279081,
+    "lng": 6.0775263
+  },
+  {
+    "cityName": "Moerdijk",
+    "lat": 51.6627723,
+    "lng": 4.5255923
+  },
+  {
+    "cityName": "Veghel",
+    "lat": 51.6134636,
+    "lng": 5.5446455
+  },
+  {
+    "cityName": " Loosdrecht / Wijdemeren",
+    "lat": 52.2025993,
+    "lng": 5.0905629
+  },
+  {
+    "cityName": "Breezand",
+    "lat": 52.8884022,
+    "lng": 4.8029941
+  }
+]
